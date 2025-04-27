@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edutrip 8B - Ricardo</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f7fb;
+      color: #2c3e50;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #007aff;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    nav {
+      background-color: #eaf1f8;
+      padding: 15px;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      border-bottom: 2px solid #d0e0f0;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #007aff;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    nav a:hover {
+      color: #0051a3;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+
+    main h1 {
+      color: #007aff;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding: 20px;
+      text-align: center;
+      font-weight: bold;
+      background-color: #007aff;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>Halaman Edutrip Ricardo 8B/23 - Ricardo.com</header>
+
+  <nav>
+    <a href="agama.html" target="_blank">Agama</a>
+    <a href="pkn.html" target="_blank">Pkn</a>
+    <a href="indonesia.html" target="_blank">Bahasa Indonesia</a>
+    <a href="ips.html" target="_blank">Ips</a>
+    <a href="english.html" target="_blank">English</a>
+    <a href="mandarin.html" target="_blank">Mandarin</a>
+  </nav>
+
+  <main>
+    <h1>Selamat datang di halaman utama Edutrip kelas 8B!</h1>
+    <p>Silakan pilih mata pelajaran dari atas untuk melihat tugas dan pengalaman seru selama Edutrip Saya🎒. 
+       Jangan Lupa Untuk Subscribe!</p>
+  </main>
+
+  <footer>
+    #ILoveRicardo - BestWeb
+  </footer>
+</body>
+</html>
